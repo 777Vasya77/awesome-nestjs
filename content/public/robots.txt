@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+
+Sitemap: http://awesome-nestjs.org/sitemap.xml

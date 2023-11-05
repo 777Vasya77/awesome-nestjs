@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev content",
+    "build": "vitepress build content",
+    "preview": "vitepress preview content"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "0.37.0",
+    "vitepress": "1.0.0-rc.24"
+  }
+}
