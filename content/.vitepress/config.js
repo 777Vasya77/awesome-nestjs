@@ -16,7 +16,7 @@ export default defineConfig({
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#fff' }]
   ],
-  base: '/',
+  base: '/awesome-nestjs/',
   lastUpdated: true,
   themeConfig: {
     editLink: {
