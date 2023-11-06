@@ -148,77 +148,77 @@
 
   <url>
     <loc>https://awesome-nestjs.com/integrations/auth.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/databases.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/graphql.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/pattern.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/editors.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/amqp.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/eventstore.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/payment-gateways.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/frontend.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/scheduling.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/workflow-automation.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/chatbots.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/file-storage.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/cloud-managed-configuration.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://awesome-nestjs.com/integrations/sdk.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://awesome-nestjs.com/runtime/command-line-terminal.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://awesome-nestjs.com/meetups/meetups.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://awesome-nestjs.com/license/license.html.html</loc>
-    <priority>o.80</priority>
+    <priority>0.80</priority>
   </url>
 </urlset>
