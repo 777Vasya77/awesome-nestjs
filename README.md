@@ -32,7 +32,7 @@ This project does not aim to replace the **[official NestJS Awesome List][nestjs
 To run this application on your machine, first clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/nestjs/awesome-nestjs.git
+git clone https://github.com/777Vasya77/awesome-nestjs.git
 cd awesome-nestjs
 npm install
 ```

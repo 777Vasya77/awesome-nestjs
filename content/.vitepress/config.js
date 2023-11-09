@@ -142,7 +142,7 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/nestjs/awesome-nestjs' }
+      { icon: 'github', link: 'https://github.com/777Vasya77/awesome-nestjs' }
     ],
     footer: {
       message: 'Maintained by Vasya Ponomarenko',

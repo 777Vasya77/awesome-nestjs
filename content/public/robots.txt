@@ -1,4 +1,4 @@
 User-agent: *
 Allow: *
 
-Sitemap: http://awesome-nestjs.com/sitemap.xml
+Sitemap: https://awesome-nestjs.com/sitemap.xml
