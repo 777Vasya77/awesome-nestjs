@@ -149,4 +149,23 @@ export default defineConfig({
       message: 'Maintained by Vasya Ponomarenko',
     },
   },
+
+  sitemap: {
+    hostname: 'https://awesome-nestjs.com',
+    transformItems: (items) => {
+      const siteMapItems = items.map((item) => ({
+        ...item,
+        changefreq: 'monthly',
+        priority: 0.8
+      }))
+
+      siteMapItems.unshift({
+        url: '/',
+        priority: 1,
+        changefreq: 'monthly'
+      });
+
+      return siteMapItems;
+    }
+  }
 });
