@@ -45,9 +45,10 @@ export default defineConfig({
         disableQueryPersistence: false,
       }
     },
-    // nav: [
-    //   { text: 'Contribute 💚', link: 'https://github.com/sponsors/777Vasya77' }
-    // ],
+    nav: [
+      // { text: 'Contribute 💚', link: 'https://github.com/sponsors/777Vasya77' }
+      { text: '#StandWithUkraine 🇺🇦', link: 'https://stand-with-ukraine.pp.ua/' }
+    ],
     sidebar: [
       {
         text: 'Resources',
