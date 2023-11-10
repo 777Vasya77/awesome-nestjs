@@ -1,8 +1,9 @@
 ---
+sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: Tutorials and guides for NestJS development
+      content: Tutorials for NestJS projects
   - - meta
     - name: og:title
       content: Tutorials
@@ -17,7 +18,7 @@ head:
       content: https://awesome-nestjs.org/hero.svg
   - - meta
     - name: og:description
-      content: Tutorials and guides for NestJS development
+      content: Tutorials for NestJS projects
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +27,7 @@ head:
       content: Tutorials
   - - meta
     - name: twitter:description
-      content: Tutorials and guides for NestJS development
+      content: Tutorials for NestJS projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-nestjs.org/hero.svg

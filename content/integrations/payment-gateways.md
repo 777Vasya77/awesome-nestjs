@@ -12,7 +12,7 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/components-and-libraries/payment-gateways.html
+      content: https://awesome-nestjs.org/integrations/payment-gateways.html
   - - meta
     - name: og:image
       content: https://awesome-nestjs.org/hero.svg

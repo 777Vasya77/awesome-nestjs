@@ -35,7 +35,7 @@ head:
 
 # Monitoring
 
-- ![](https://img.shields.io/github/stars/nestjs/terminus.svg?style=flat-square) [`@nestjs/terminus`](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
+- [`@nestjs/terminus`](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
 - ![](https://img.shields.io/github/stars/MetinSeylan/Nestjs-OpenTelemetry.svg?style=flat-square) [`@metinseylan/nestjs-opentelemetry`](https://github.com/MetinSeylan/Nestjs-OpenTelemetry) - Deeply integrated NestJS OpenTelemetry module with auto instrumentations.
 - ![](https://img.shields.io/github/stars/GenFirst/nest-status-monitor.svg?style=flat-square) [`nest-status-monitor`](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for NestJS based node servers.
 - ![](https://img.shields.io/github/stars/narando/nest-xray.svg?style=flat-square) [`@narando/nest-xray`](https://github.com/narando/nest-xray) - Record incoming and outgoing request for [AWS X-Ray](https://aws.amazon.com/xray/), also supports custom instrumentation.
