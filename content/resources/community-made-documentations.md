@@ -1,8 +1,9 @@
 ---
+sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: Community-made documentations about NestJS
+      content: Community-made documentations for NestJS projects
   - - meta
     - name: og:title
       content: Community-made documentations
@@ -17,7 +18,7 @@ head:
       content: https://awesome-nestjs.org/hero.svg
   - - meta
     - name: og:description
-      content: Community-made documentations about NestJS
+      content: Community-made documentations for NestJS projects
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +27,7 @@ head:
       content: Community-made documentations
   - - meta
     - name: twitter:description
-      content: Community-made documentations about NestJS
+      content: Community-made documentations for NestJS projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-nestjs.org/hero.svg

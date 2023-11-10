@@ -12,7 +12,7 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/components-and-libraries/lint.html
+      content: https://awesome-nestjs.org/components-and-libraries/logging.html
   - - meta
     - name: og:image
       content: https://awesome-nestjs.org/hero.svg
@@ -38,4 +38,3 @@ head:
 - ![](https://img.shields.io/github/stars/gremo/nest-winston.svg?style=flat-square) [`nest-winston`](https://github.com/gremo/nest-winston) - Winston module for NestJS.
 - ![](https://img.shields.io/github/stars/iamolegga/nestjs-pino.svg?style=flat-square) [`nestjs-pino`](https://github.com/iamolegga/nestjs-pino) - Pino module for NestJS Log with request context in any place.
 - ![](https://img.shields.io/github/stars/jmcdo29/ogma.svg?style=flat-square) [`@ogma/*`](https://github.com/jmcdo29/ogma) - A monorepo for the Ogma logger and related packages.
-

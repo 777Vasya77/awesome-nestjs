@@ -12,7 +12,7 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/components-and-libraries/command-line-terminal.html
+      content: https://awesome-nestjs.org/runtime/command-line-terminal.html
   - - meta
     - name: og:image
       content: https://awesome-nestjs.org/hero.svg

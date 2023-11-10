@@ -1,8 +1,9 @@
 ---
+sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: NestJS user forums and chat groups
+      content: Community for NestJS projects
   - - meta
     - name: og:title
       content: Community
@@ -17,7 +18,7 @@ head:
       content: https://awesome-nestjs.org/hero.svg
   - - meta
     - name: og:description
-      content: NestJS user forums and chat groups
+      content: Community for NestJS projects
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +27,7 @@ head:
       content: Community
   - - meta
     - name: twitter:description
-      content: NestJS user forums and chat groups
+      content: Community for NestJS projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-nestjs.org/hero.svg

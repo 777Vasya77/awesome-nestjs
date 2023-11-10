@@ -3,10 +3,10 @@ sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: Internationalization for NestJS projects
+      content: Internationalization (i18n) for NestJS projects
   - - meta
     - name: og:title
-      content: Internationalization
+      content: Internationalization (i18n)
   - - meta
     - name: og:type
       content: website
@@ -18,16 +18,16 @@ head:
       content: https://awesome-nestjs.org/hero.svg
   - - meta
     - name: og:description
-      content: Internationalization for NestJS projects
+      content: Internationalization (i18n) for NestJS projects
   - - meta
     - name: twitter:card
       content: summary
   - - meta
     - name: twitter:title
-      content: Internationalization
+      content: Internationalization (i18n)
   - - meta
     - name: twitter:description
-      content: Internationalization for NestJS projects
+      content: Internationalization (i18n) for NestJS projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-nestjs.org/hero.svg

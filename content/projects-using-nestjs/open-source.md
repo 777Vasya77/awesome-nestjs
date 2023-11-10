@@ -1,8 +1,9 @@
 ---
+sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: Open source NestJS projects
+      content: Open Source for NestJS projects
   - - meta
     - name: og:title
       content: Open Source
@@ -17,7 +18,7 @@ head:
       content: https://awesome-nestjs.org/hero.svg
   - - meta
     - name: og:description
-      content: Open source NestJS projects
+      content: Open Source for NestJS projects
   - - meta
     - name: twitter:card
       content: summary
@@ -26,7 +27,7 @@ head:
       content: Open Source
   - - meta
     - name: twitter:description
-      content: Open source NestJS projects
+      content: Open Source for NestJS projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-nestjs.org/hero.svg

@@ -3,10 +3,10 @@ sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: RBAC for NestJS projects
+      content: RBAC (Role-based access control) for NestJS projects
   - - meta
     - name: og:title
-      content: RBAC
+      content: RBAC (Role-based access control)
   - - meta
     - name: og:type
       content: website
@@ -18,16 +18,16 @@ head:
       content: https://awesome-nestjs.org/hero.svg
   - - meta
     - name: og:description
-      content: RBAC for NestJS projects
+      content: RBAC (Role-based access control) for NestJS projects
   - - meta
     - name: twitter:card
       content: summary
   - - meta
     - name: twitter:title
-      content: RBAC
+      content: RBAC (Role-based access control)
   - - meta
     - name: twitter:description
-      content: RBAC for NestJS projects
+      content: RBAC (Role-based access control) for NestJS projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-nestjs.org/hero.svg

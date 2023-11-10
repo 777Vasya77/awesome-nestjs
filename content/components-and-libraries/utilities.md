@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - meta
     - name: description
-      content: Helper libraries for building NestJS projects
+      content: Utilities for NestJS projects
   - - meta
     - name: og:title
       content: Utilities
@@ -18,7 +18,7 @@ head:
       content: https://awesome-nestjs.org/hero.svg
   - - meta
     - name: og:description
-      content: Helper libraries for building NestJS projects
+      content: Utilities for NestJS projects
   - - meta
     - name: twitter:card
       content: summary
@@ -27,7 +27,7 @@ head:
       content: Utilities
   - - meta
     - name: twitter:description
-      content: Helper libraries for building NestJS projects
+      content: Utilities for NestJS projects
   - - meta
     - name: twitter:image:src
       content: https://awesome-nestjs.org/hero.svg

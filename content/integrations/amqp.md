@@ -12,7 +12,7 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/components-and-libraries/amqp.html
+      content: https://awesome-nestjs.org/integrations/amqp.html
   - - meta
     - name: og:image
       content: https://awesome-nestjs.org/hero.svg
