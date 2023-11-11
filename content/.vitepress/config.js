@@ -153,19 +153,11 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://awesome-nestjs.com',
     transformItems: (items) => {
-      const siteMapItems = items.map((item) => ({
+      return items.map((item) => ({
         ...item,
         changefreq: 'monthly',
-        priority: 0.8
+        priority: item.url === '' ? 1.0 : 0.8
       }))
-
-      siteMapItems.unshift({
-        url: '/',
-        priority: 1,
-        changefreq: 'monthly'
-      });
-
-      return siteMapItems;
     }
   }
 });
