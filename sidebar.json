@@ -1,0 +1,237 @@
+[
+  {
+    "text": "Resources",
+    "items": [
+      {
+        "text": "Boilerplate",
+        "link": "/resources/boilerplate"
+      },
+      {
+        "text": "Community-made documentations",
+        "link": "/resources/community-made-documentations"
+      },
+      {
+        "text": "Community",
+        "link": "/resources/community"
+      },
+      {
+        "text": "Examples",
+        "link": "/resources/examples"
+      },
+      {
+        "text": "Official Resources",
+        "link": "/resources/official-resources"
+      },
+      {
+        "text": "Talks",
+        "link": "/resources/talks"
+      },
+      {
+        "text": "Trainings",
+        "link": "/resources/trainings"
+      },
+      {
+        "text": "Tutorials",
+        "link": "/resources/tutorials"
+      }
+    ]
+  },
+  {
+    "text": "Projects using NestJS",
+    "items": [
+      {
+        "text": "Open Source",
+        "link": "/projects-using-nestjs/open-source"
+      }
+    ]
+  },
+  {
+    "text": "Components & Libraries",
+    "items": [
+      {
+        "text": "API",
+        "link": "/components-and-libraries/api"
+      },
+      {
+        "text": "Auth",
+        "link": "/components-and-libraries/auth"
+      },
+      {
+        "text": "Code Style",
+        "link": "/components-and-libraries/code-style"
+      },
+      {
+        "text": "Currency",
+        "link": "/components-and-libraries/currency"
+      },
+      {
+        "text": "Database",
+        "link": "/components-and-libraries/database"
+      },
+      {
+        "text": "Dialogflow :satellite:",
+        "link": "/components-and-libraries/dialogflow"
+      },
+      {
+        "text": "Errors",
+        "link": "/components-and-libraries/errors"
+      },
+      {
+        "text": "Event",
+        "link": "/components-and-libraries/event"
+      },
+      {
+        "text": "Internationalization (i18n)",
+        "link": "/components-and-libraries/internationalization"
+      },
+      {
+        "text": "Lint",
+        "link": "/components-and-libraries/lint"
+      },
+      {
+        "text": "Logging",
+        "link": "/components-and-libraries/logging"
+      },
+      {
+        "text": "Mail",
+        "link": "/components-and-libraries/mail"
+      },
+      {
+        "text": "Microservice",
+        "link": "/components-and-libraries/microservice"
+      },
+      {
+        "text": "Middleware",
+        "link": "/components-and-libraries/middleware"
+      },
+      {
+        "text": "Monitoring",
+        "link": "/components-and-libraries/monitoring"
+      },
+      {
+        "text": "Multi Tenancy",
+        "link": "/components-and-libraries/multi-tenancy"
+      },
+      {
+        "text": "RBAC (Role-based access control)",
+        "link": "/components-and-libraries/rbac"
+      },
+      {
+        "text": "Reability",
+        "link": "/components-and-libraries/reability"
+      },
+      {
+        "text": "Redis",
+        "link": "/components-and-libraries/redis"
+      },
+      {
+        "text": "Router🚦",
+        "link": "/components-and-libraries/router"
+      },
+      {
+        "text": "Utilities",
+        "link": "/components-and-libraries/utilities"
+      },
+      {
+        "text": "Web Sockets",
+        "link": "/components-and-libraries/web-sockets"
+      }
+    ]
+  },
+  {
+    "text": "Testing",
+    "items": [
+      {
+        "text": "Collections of examples",
+        "link": "/testing/collections-of-examples"
+      },
+      {
+        "text": "Utilities",
+        "link": "/testing/utilities"
+      }
+    ]
+  },
+  {
+    "text": "Integrations",
+    "items": [
+      {
+        "text": "AMQP",
+        "link": "/integrations/amqp"
+      },
+      {
+        "text": "Auth",
+        "link": "/integrations/auth"
+      },
+      {
+        "text": "Chatbots",
+        "link": "/integrations/chatbots"
+      },
+      {
+        "text": "Cloud Managed Configuration",
+        "link": "/integrations/cloud-managed-configuration"
+      },
+      {
+        "text": "Databases",
+        "link": "/integrations/databases"
+      },
+      {
+        "text": "Editors",
+        "link": "/integrations/editors"
+      },
+      {
+        "text": "EventStore",
+        "link": "/integrations/eventstore"
+      },
+      {
+        "text": "File Storage",
+        "link": "/integrations/file-storage"
+      },
+      {
+        "text": "Frontend",
+        "link": "/integrations/frontend"
+      },
+      {
+        "text": "GraphQL",
+        "link": "/integrations/graphql"
+      },
+      {
+        "text": "Pattern",
+        "link": "/integrations/pattern"
+      },
+      {
+        "text": "Payment Gateways",
+        "link": "/integrations/payment-gateways"
+      },
+      {
+        "text": "Scheduling",
+        "link": "/integrations/scheduling"
+      },
+      {
+        "text": "SDK",
+        "link": "/integrations/sdk"
+      },
+      {
+        "text": "Workflow Automation",
+        "link": "/integrations/workflow-automation"
+      }
+    ]
+  },
+  {
+    "text": "Runtime",
+    "items": [
+      {
+        "text": "Command Line / Terminal",
+        "link": "/runtime/command-line-terminal"
+      }
+    ]
+  },
+  {
+    "text": "Meetups",
+    "items": [
+      {
+        "text": "Meetups",
+        "link": "/meetups/meetups"
+      }
+    ]
+  }
+]
