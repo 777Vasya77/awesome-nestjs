@@ -33,6 +33,6 @@ head:
       content: https://awesome-nestjs.org/hero.svg
 ---
 
-# Meetups
+# Meetups!
 
 - [NestJS Meetup](https://www.meetup.com/nestjs-meetup/) - community driven meetup
