@@ -50,7 +50,7 @@ export default defineConfig({
       }
     },
     nav: [
-      // { text: 'Contribute 💚', link: 'https://github.com/sponsors/777Vasya77' }
+      { text: 'Contribute ☕️', link: 'https://www.buymeacoffee.com/777Vasya77m' },
       { text: '#StandWithUkraine 🇺🇦', link: 'https://stand-with-ukraine.pp.ua/' }
     ],
     sidebar,

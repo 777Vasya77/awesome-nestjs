@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Continue →
       link: /resources/official-resources
+    - theme: alt
+      text: Contribute ☕️
+      link: https://www.buymeacoffee.com/777Vasya77m
 features:
   #Resources
   - title: Official Resources
