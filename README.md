@@ -21,6 +21,11 @@ Awesome NestJS
 </p>
 
 <hr />
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/777Vasya77m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+
 <!-- markdownlint-enable MD033 -->
 
 This project does not aim to replace the **[official NestJS Awesome List][nestjs/awesome-nestjs]** but rather to provide a nicer experience when browsing the content.
@@ -53,11 +58,12 @@ npm run preview --port 4173
 
 ## Scripts
 
-| Script    | Description                                             |
-|-----------|---------------------------------------------------------|
-| `dev`     | Compiles content and serves bundled code                |
-| `build`   | Compiles content and other static assets for deployment |
-| `preview` | Locally preview the production build                    |
+| Script           | Description                                             |
+|------------------|---------------------------------------------------------|
+| `dev`            | Compiles content and serves bundled code                |
+| `build`          | Compiles content and other static assets for deployment |
+| `preview`        | Locally preview the production build                    |
+| `update-content` | Run content updater                                     |
 
 ## Contributing
 
