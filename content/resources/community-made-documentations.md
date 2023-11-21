@@ -35,4 +35,5 @@ head:
 
 # Community-made documentations
 
+- [API reference for NestJS official packages](https://api-references-nestjs.netlify.app/api)
 - [Simplified Chinese Documentation](https://docs.nestjs.cn)
