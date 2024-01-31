@@ -125,6 +125,10 @@
         "link": "/components-and-libraries/redis"
       },
       {
+        "text": "Reliability",
+        "link": "/components-and-libraries/reliability"
+      },
+      {
         "text": "Router🚦",
         "link": "/components-and-libraries/router"
       },
