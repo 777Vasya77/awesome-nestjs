@@ -117,12 +117,12 @@
         "link": "/components-and-libraries/rbac"
       },
       {
-        "text": "Reability",
-        "link": "/components-and-libraries/reability"
-      },
-      {
         "text": "Redis",
         "link": "/components-and-libraries/redis"
+      },
+      {
+        "text": "Reliability",
+        "link": "/components-and-libraries/reliability"
       },
       {
         "text": "Router🚦",
