@@ -57,6 +57,10 @@
         "link": "/components-and-libraries/auth"
       },
       {
+        "text": "Cache",
+        "link": "/components-and-libraries/cache"
+      },
+      {
         "text": "Code Style",
         "link": "/components-and-libraries/code-style"
       },
