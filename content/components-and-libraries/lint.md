@@ -37,3 +37,4 @@ head:
 
 - ![](https://img.shields.io/github/stars/unlight/eslint-plugin-nestjs.svg?style=flat-square) [`eslint-plugin-nestjs`](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for NestJS framework.
 - ![](https://img.shields.io/github/stars/darraghoriordan/eslint-plugin-nestjs-typed.svg?style=flat-square) [`@darraghor/eslint-plugin-nestjs-typed`](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed) - ESLint rules for NestJS framework.
+- ![](https://img.shields.io/github/stars/ej-shafran/eslint-plugin-nestjs-pedantic.svg?style=flat-square) [`eslint-plugin-nestjs-pedantic`](https://github.com/ej-shafran/eslint-plugin-nestjs-pedantic) - An ESLint plugin for NestJS, with pedantic rules
