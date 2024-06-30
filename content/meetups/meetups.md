@@ -36,3 +36,4 @@ head:
 # Meetups
 
 - [NestJS Meetup](https://www.meetup.com/nestjs-meetup/) - community driven meetup
+- [NestJS Vienna Meetup](https://www.meetup.com/nestjs-vienna/) - meetup for NestJS developers in Vienna and surroundings
