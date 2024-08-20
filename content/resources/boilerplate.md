@@ -35,6 +35,7 @@ head:
 
 # Boilerplate
 
+- [Clean NestJs architecture](https://github.com/MoeidHeidari/sudoku-challenge) - This boilerplate show how to setup a clean architecture with NestJs including unit, integration and e2e tests.
 - [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functionnal programming with FP-TS.
 - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
 - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
@@ -69,4 +70,5 @@ head:
 - [NestJS Webpack Boilerplate](https://github.com/kenso312/nestjs-v9-webpack-boilerplate) - Boilerplate for NestJS with Webpack, Pnpm, Fastify, Swagger, Pino Logger, Airbnb JavaScript Guide, Google JSON Style, ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint, Axios, Docker, Alias Path, Error Handling and Clustering.
 - [Nest Prisma Zod Boilerplate](https://github.com/Innei/nest-http-prisma-zod) - A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest.
 - [NestJS Boilerplate using Typescript Generics](https://github.com/BrahimAbdelli/nestjs-boilerplate) - A NestJS boilerplate that uses abstraction to create generic controller, service, dtos and entity, aiming to encapsulate a reusable logic throughout the project in one centralized base module using TypeORM & MongoDB.
+- [NestJS Drizzle Auth.js](https://github.com/innei-template/nest-drizzle-authjs) - A Nest.js Boilerplate Using Drizzle + Postgres and integrates Auth.js.
 - [NestJS Boilerplate with Awesome Docs](https://github.com/vndevteam/nestjs-boilerplate) - A NestJS boilerplate with SWC builder, PNPM, Auth, TypeORM, PostgreSQL, Seeding data (TypeORM Extension), Mailing (@nestjs-modules/mailer, nodemailer), Logging (Pino), Exception Handling, I18N, Dockerization (Local development, production), Swagger, Document (Vuepress), Lint & format (ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint), Tests, CI.
