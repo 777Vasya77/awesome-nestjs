@@ -1,7 +1,7 @@
 {
   "private": true,
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "type": "module",
   "scripts": {
@@ -12,10 +12,10 @@
     "predev": "npm run update-content"
   },
   "devDependencies": {
-    "markdownlint-cli": "0.37.0",
-    "vitepress": "1.0.0-rc.24"
+    "markdownlint-cli": "0.42.0",
+    "vitepress": "1.4.1"
   },
   "dependencies": {
-    "axios": "1.6.1"
+    "axios": "1.7.7"
   }
 }
