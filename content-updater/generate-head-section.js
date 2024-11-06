@@ -4,7 +4,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/${fileUrl.replace('.html', '')}
+      href: https://awesome-nestjs.com/${fileUrl}
   - - meta
     - name: description
       content: ${name} for NestJS projects
