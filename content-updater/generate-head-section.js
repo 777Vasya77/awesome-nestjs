@@ -2,6 +2,9 @@ export const generateHeadSection = (name, fileUrl) => {
     return `---
 sidebarDepth: 3
 head:
+  - - link
+    - rel: canonical
+      href: https://awesome-nestjs.com/${fileUrl.replace('.html', '')}
   - - meta
     - name: description
       content: ${name} for NestJS projects
