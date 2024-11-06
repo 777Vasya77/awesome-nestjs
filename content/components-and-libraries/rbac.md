@@ -1,6 +1,9 @@
 ---
 sidebarDepth: 3
 head:
+  - - link
+    - rel: canonical
+      href: https://awesome-nestjs.com/components-and-libraries/rbac
   - - meta
     - name: description
       content: RBAC (Role-based access control) for NestJS projects
@@ -12,10 +15,10 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/components-and-libraries/rbac.html
+      content: https://awesome-nestjs.com/components-and-libraries/rbac.html
   - - meta
     - name: og:image
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
   - - meta
     - name: og:description
       content: RBAC (Role-based access control) for NestJS projects
@@ -30,7 +33,7 @@ head:
       content: RBAC (Role-based access control) for NestJS projects
   - - meta
     - name: twitter:image:src
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
 ---
 
 # RBAC (Role-based access control)
