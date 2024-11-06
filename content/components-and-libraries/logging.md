@@ -1,6 +1,9 @@
 ---
 sidebarDepth: 3
 head:
+  - - link
+    - rel: canonical
+      href: https://awesome-nestjs.com/components-and-libraries/logging
   - - meta
     - name: description
       content: Logging for NestJS projects
@@ -12,10 +15,10 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/components-and-libraries/logging.html
+      content: https://awesome-nestjs.com/components-and-libraries/logging.html
   - - meta
     - name: og:image
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
   - - meta
     - name: og:description
       content: Logging for NestJS projects
@@ -30,7 +33,7 @@ head:
       content: Logging for NestJS projects
   - - meta
     - name: twitter:image:src
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
 ---
 
 # Logging

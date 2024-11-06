@@ -1,6 +1,9 @@
 ---
 sidebarDepth: 3
 head:
+  - - link
+    - rel: canonical
+      href: https://awesome-nestjs.com/components-and-libraries/currency
   - - meta
     - name: description
       content: Currency for NestJS projects
@@ -12,10 +15,10 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/components-and-libraries/currency.html
+      content: https://awesome-nestjs.com/components-and-libraries/currency.html
   - - meta
     - name: og:image
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
   - - meta
     - name: og:description
       content: Currency for NestJS projects
@@ -30,7 +33,7 @@ head:
       content: Currency for NestJS projects
   - - meta
     - name: twitter:image:src
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
 ---
 
 # Currency

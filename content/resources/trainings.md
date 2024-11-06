@@ -1,6 +1,9 @@
 ---
 sidebarDepth: 3
 head:
+  - - link
+    - rel: canonical
+      href: https://awesome-nestjs.com/resources/trainings
   - - meta
     - name: description
       content: Trainings for NestJS projects
@@ -12,10 +15,10 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/resources/trainings.html
+      content: https://awesome-nestjs.com/resources/trainings.html
   - - meta
     - name: og:image
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
   - - meta
     - name: og:description
       content: Trainings for NestJS projects
@@ -30,7 +33,7 @@ head:
       content: Trainings for NestJS projects
   - - meta
     - name: twitter:image:src
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
 ---
 
 # Trainings

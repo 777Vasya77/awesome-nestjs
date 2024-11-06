@@ -1,6 +1,9 @@
 ---
 sidebarDepth: 3
 head:
+  - - link
+    - rel: canonical
+      href: https://awesome-nestjs.com/integrations/cloud-managed-configuration
   - - meta
     - name: description
       content: Cloud Managed Configuration for NestJS projects
@@ -12,10 +15,10 @@ head:
       content: website
   - - meta
     - name: og:url
-      content: https://awesome-nestjs.org/integrations/cloud-managed-configuration.html
+      content: https://awesome-nestjs.com/integrations/cloud-managed-configuration.html
   - - meta
     - name: og:image
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
   - - meta
     - name: og:description
       content: Cloud Managed Configuration for NestJS projects
@@ -30,7 +33,7 @@ head:
       content: Cloud Managed Configuration for NestJS projects
   - - meta
     - name: twitter:image:src
-      content: https://awesome-nestjs.org/hero.svg
+      content: https://awesome-nestjs.com/hero.svg
 ---
 
 # Cloud Managed Configuration
