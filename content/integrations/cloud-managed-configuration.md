@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/cloud-managed-configuration
+      href: https://awesome-nestjs.com/integrations/cloud-managed-configuration.html
   - - meta
     - name: description
       content: Cloud Managed Configuration for NestJS projects

@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/api
+      href: https://awesome-nestjs.com/components-and-libraries/api.html
   - - meta
     - name: description
       content: API for NestJS projects

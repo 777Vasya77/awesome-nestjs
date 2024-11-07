@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/databases
+      href: https://awesome-nestjs.com/integrations/databases.html
   - - meta
     - name: description
       content: Databases for NestJS projects

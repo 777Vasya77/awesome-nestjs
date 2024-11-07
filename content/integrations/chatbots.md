@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/chatbots
+      href: https://awesome-nestjs.com/integrations/chatbots.html
   - - meta
     - name: description
       content: Chatbots for NestJS projects

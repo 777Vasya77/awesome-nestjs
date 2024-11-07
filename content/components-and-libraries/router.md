@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/router
+      href: https://awesome-nestjs.com/components-and-libraries/router.html
   - - meta
     - name: description
       content: Router for NestJS projects

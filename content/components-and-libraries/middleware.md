@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/middleware
+      href: https://awesome-nestjs.com/components-and-libraries/middleware.html
   - - meta
     - name: description
       content: Middleware for NestJS projects

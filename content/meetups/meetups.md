@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/meetups/meetups
+      href: https://awesome-nestjs.com/meetups/meetups.html
   - - meta
     - name: description
       content: Meetups for NestJS projects

@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/dialogflow
+      href: https://awesome-nestjs.com/components-and-libraries/dialogflow.html
   - - meta
     - name: description
       content: Dialogflow for NestJS projects

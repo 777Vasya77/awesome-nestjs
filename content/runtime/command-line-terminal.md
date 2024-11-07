@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/runtime/command-line-terminal
+      href: https://awesome-nestjs.com/runtime/command-line-terminal.html
   - - meta
     - name: description
       content: Command Line / Terminal for NestJS projects

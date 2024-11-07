@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/resources/talks
+      href: https://awesome-nestjs.com/resources/talks.html
   - - meta
     - name: description
       content: Talks for NestJS projects

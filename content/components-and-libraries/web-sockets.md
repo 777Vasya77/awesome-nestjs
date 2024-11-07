@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/web-sockets
+      href: https://awesome-nestjs.com/components-and-libraries/web-sockets.html
   - - meta
     - name: description
       content: Web Sockets for NestJS projects

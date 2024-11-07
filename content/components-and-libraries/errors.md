@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/errors
+      href: https://awesome-nestjs.com/components-and-libraries/errors.html
   - - meta
     - name: description
       content: Errors for NestJS projects

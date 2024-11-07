@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/reliability
+      href: https://awesome-nestjs.com/components-and-libraries/reliability.html
   - - meta
     - name: description
       content: Reliability for NestJS projects

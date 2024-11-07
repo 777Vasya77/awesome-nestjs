@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/internationalization
+      href: https://awesome-nestjs.com/components-and-libraries/internationalization.html
   - - meta
     - name: description
       content: Internationalization (i18n) for NestJS projects

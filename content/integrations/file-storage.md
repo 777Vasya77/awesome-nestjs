@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/file-storage
+      href: https://awesome-nestjs.com/integrations/file-storage.html
   - - meta
     - name: description
       content: File Storage for NestJS projects

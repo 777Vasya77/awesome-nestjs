@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/resources/examples
+      href: https://awesome-nestjs.com/resources/examples.html
   - - meta
     - name: description
       content: Examples for NestJS projects

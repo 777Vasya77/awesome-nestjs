@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/workflow-automation
+      href: https://awesome-nestjs.com/integrations/workflow-automation.html
   - - meta
     - name: description
       content: Workflow Automation for NestJS projects

@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/editors
+      href: https://awesome-nestjs.com/integrations/editors.html
   - - meta
     - name: description
       content: Editors for NestJS projects

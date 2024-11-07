@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/event
+      href: https://awesome-nestjs.com/components-and-libraries/event.html
   - - meta
     - name: description
       content: Event for NestJS projects

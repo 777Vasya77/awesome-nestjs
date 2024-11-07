@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/monitoring
+      href: https://awesome-nestjs.com/components-and-libraries/monitoring.html
   - - meta
     - name: description
       content: Monitoring for NestJS projects

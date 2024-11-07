@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/resources/community
+      href: https://awesome-nestjs.com/resources/community.html
   - - meta
     - name: description
       content: Community for NestJS projects
