@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/code-style
+      href: https://awesome-nestjs.com/components-and-libraries/code-style.html
   - - meta
     - name: description
       content: Code Style for NestJS projects

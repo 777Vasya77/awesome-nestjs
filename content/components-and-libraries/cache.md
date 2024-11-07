@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/cache
+      href: https://awesome-nestjs.com/components-and-libraries/cache.html
   - - meta
     - name: description
       content: Cache for NestJS projects

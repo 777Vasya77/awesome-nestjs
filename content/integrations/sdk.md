@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/sdk
+      href: https://awesome-nestjs.com/integrations/sdk.html
   - - meta
     - name: description
       content: SDK for NestJS projects

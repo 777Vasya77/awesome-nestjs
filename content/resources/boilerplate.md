@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/resources/boilerplate
+      href: https://awesome-nestjs.com/resources/boilerplate.html
   - - meta
     - name: description
       content: Boilerplate for NestJS projects

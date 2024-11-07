@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/graphql
+      href: https://awesome-nestjs.com/integrations/graphql.html
   - - meta
     - name: description
       content: GraphQL for NestJS projects

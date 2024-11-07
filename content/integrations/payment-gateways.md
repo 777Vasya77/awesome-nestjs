@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/payment-gateways
+      href: https://awesome-nestjs.com/integrations/payment-gateways.html
   - - meta
     - name: description
       content: Payment Gateways for NestJS projects

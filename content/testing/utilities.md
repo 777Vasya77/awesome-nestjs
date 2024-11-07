@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/testing/utilities
+      href: https://awesome-nestjs.com/testing/utilities.html
   - - meta
     - name: description
       content: Utilities for NestJS projects

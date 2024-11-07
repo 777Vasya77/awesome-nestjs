@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/redis
+      href: https://awesome-nestjs.com/components-and-libraries/redis.html
   - - meta
     - name: description
       content: Redis for NestJS projects

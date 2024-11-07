@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/resources/official-resources
+      href: https://awesome-nestjs.com/resources/official-resources.html
   - - meta
     - name: description
       content: Official Resources for NestJS projects

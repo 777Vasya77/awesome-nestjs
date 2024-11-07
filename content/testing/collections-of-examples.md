@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/testing/collections-of-examples
+      href: https://awesome-nestjs.com/testing/collections-of-examples.html
   - - meta
     - name: description
       content: Collections of examples for NestJS projects

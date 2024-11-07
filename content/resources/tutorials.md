@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/resources/tutorials
+      href: https://awesome-nestjs.com/resources/tutorials.html
   - - meta
     - name: description
       content: Tutorials for NestJS projects

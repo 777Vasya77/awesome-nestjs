@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/projects-using-nestjs/open-source
+      href: https://awesome-nestjs.com/projects-using-nestjs/open-source.html
   - - meta
     - name: description
       content: Open Source for NestJS projects

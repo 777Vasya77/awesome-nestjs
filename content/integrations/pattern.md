@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/pattern
+      href: https://awesome-nestjs.com/integrations/pattern.html
   - - meta
     - name: description
       content: Pattern for NestJS projects

@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/microservice
+      href: https://awesome-nestjs.com/components-and-libraries/microservice.html
   - - meta
     - name: description
       content: Microservice for NestJS projects

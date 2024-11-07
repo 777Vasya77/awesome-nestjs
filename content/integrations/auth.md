@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/auth
+      href: https://awesome-nestjs.com/integrations/auth.html
   - - meta
     - name: description
       content: Auth for NestJS projects

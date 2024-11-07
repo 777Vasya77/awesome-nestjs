@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/resources/community-made-documentations
+      href: https://awesome-nestjs.com/resources/community-made-documentations.html
   - - meta
     - name: description
       content: Community-made documentations for NestJS projects

@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/scheduling
+      href: https://awesome-nestjs.com/integrations/scheduling.html
   - - meta
     - name: description
       content: Scheduling for NestJS projects

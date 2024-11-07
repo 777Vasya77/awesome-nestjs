@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/frontend
+      href: https://awesome-nestjs.com/integrations/frontend.html
   - - meta
     - name: description
       content: Frontend for NestJS projects

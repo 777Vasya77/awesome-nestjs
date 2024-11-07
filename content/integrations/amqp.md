@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/integrations/amqp
+      href: https://awesome-nestjs.com/integrations/amqp.html
   - - meta
     - name: description
       content: AMQP for NestJS projects

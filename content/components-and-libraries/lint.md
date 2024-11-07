@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/lint
+      href: https://awesome-nestjs.com/components-and-libraries/lint.html
   - - meta
     - name: description
       content: Lint for NestJS projects

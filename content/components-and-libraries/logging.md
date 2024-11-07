@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/logging
+      href: https://awesome-nestjs.com/components-and-libraries/logging.html
   - - meta
     - name: description
       content: Logging for NestJS projects

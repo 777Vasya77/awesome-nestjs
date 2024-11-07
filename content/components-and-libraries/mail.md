@@ -3,7 +3,7 @@ sidebarDepth: 3
 head:
   - - link
     - rel: canonical
-      href: https://awesome-nestjs.com/components-and-libraries/mail
+      href: https://awesome-nestjs.com/components-and-libraries/mail.html
   - - meta
     - name: description
       content: Mail for NestJS projects
