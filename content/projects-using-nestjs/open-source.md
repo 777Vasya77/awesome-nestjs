@@ -39,9 +39,7 @@ head:
 # Open Source
 
 - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
-- [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
 - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
-- [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
 - [Novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center.
 - [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management.
 - [Teable](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer-friendly, No code database.
@@ -56,3 +54,5 @@ head:
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Ghostfolio is a privacy-focused, open-source dashboard that simplifies asset tracking and supports informed financial decisions.
 - [Twenty](https://github.com/twentyhq/twenty) - An open-source full-stack CRM system designed as an alternative to Salesforce for managing customer data and workflows efficiently.
 - [Manifest](https://manifest.build) - 1-file micro backend in YAML.
+- [IdeaForge](https://github.com/chenxiaoyao6228/idea-forge) - A powerful document collaboration platform that combines Notion-like functionality with AI capabilities. It offers a seamless environment for real-time collaborative editing, AI-powered writing assistance, and intuitive document management.
+- [Bunnychess](https://github.com/pietrobassi/bunnychess) - Open-source, scalable chess server built with NestJS microservices and NATS JetStream.
