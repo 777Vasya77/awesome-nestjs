@@ -62,6 +62,5 @@ head:
 - [Lyricstify](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, Nest Commander & RxJs.
 - [NestJs RabbitMQ Transporter with the graceful shutdown](https://github.com/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown) - An implementation example of graceful shutdown for microservices based on RabbitMQ message broker.
 - [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) - NestJS Authentication without Passport using Bcrypt, JWT and Redis
-- [LawKnowledge](https://github.com/foxminchan/LawKnowledge): A legal knowledge search Q&A app for Vietnam's Legal Code using a language model
 - [NestJs Farm Starter](https://github.com/ErKeLost/farm-nestjs-starter) - Compile a nestjs project using [Farm](https://www.farmfe.org/), Compile in milliseconds.
 - [Shopping Backend] - NestJS shopping backend implementation with [prisma](https://www.prisma.io/) and [nestia](https://nestia.io/) for the educational purpose. It has been developed under the strict architecture designing, and ensures quality by wide e2e and unit testings.
