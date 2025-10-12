@@ -47,7 +47,12 @@
   },
   {
     "text": "🚀 Boilerplates & Starters",
-    "items": []
+    "items": [
+      {
+        "text": "🚀 Boilerplates & Starters",
+        "link": "/-boilerplates-and-starters/-boilerplates-and-starters"
+      }
+    ]
   },
   {
     "text": "Components & Libraries",
