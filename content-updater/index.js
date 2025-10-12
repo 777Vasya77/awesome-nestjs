@@ -61,33 +61,49 @@ function parseSection({filePath, folderPath, category}) {
     const content = fs.readFileSync(filePath, 'utf8');
 
     // Dividing content into sections
-    const sections = markdownSplit(content, '####');
+    let sections = markdownSplit(content, '####');
+
+    const hasNamedSections = sections.some(({ name }) => Boolean(name && name.trim()));
+    if (!hasNamedSections) {
+      sections = sections.map((section) => ({
+        ...section,
+        name: category
+      }));
+    }
 
     // Processing each section
     sections.forEach(({ name, content }) => {
-      const fileName = prepareString(name ?? category);
-      const filePath = `${folderPath}/${fileName}.md`;
+      if (!content.trim()) {
+        return;
+      }
 
-      const fileUrl = filePath
+      const sectionName = ((name ?? category) || '').trim();
+      if (!sectionName) {
+        return;
+      }
+      const fileName = prepareString(sectionName);
+      const entryFilePath = `${folderPath}/${fileName}.md`;
+
+      const fileUrl = entryFilePath
         .replace('content/', '')
         .replace('.md', '.html');
 
       // Create content file
       const fileContent = {
-        headSection: generateHeadSection(removeEmoji(name ?? category).trim(), fileUrl),
-        title: `# ${name ?? category}`,
+        headSection: generateHeadSection(removeEmoji(sectionName).trim(), fileUrl),
+        title: `# ${sectionName}`,
         content: content.trim()
       };
       const generateFileContent = () => {
         const {headSection,title,content} = fileContent;
         return `${headSection}\n\n${title}\n\n${content}\n`;
-      }
-      fs.writeFileSync(filePath, generateFileContent());
+      };
+      fs.writeFileSync(entryFilePath, generateFileContent());
     });
 
     // Remove temp file
     const skipFiles = ['meetups.md'];
-    if (!skipFiles.some(file => filePath.includes(file))) {
+    if (hasNamedSections && !skipFiles.some(file => filePath.includes(file))) {
       fs.unlinkSync(filePath);
     }
 
