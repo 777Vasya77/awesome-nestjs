@@ -42,3 +42,4 @@ head:
 - [NestJS + GraphQL Starter](https://github.com/kamilmysliwiec/nest-graphql-example) - Example project using Apollo GraphQL, Prisma, and NestJS.
 - [NestJS + Docker Template](https://github.com/johndoe/nest-docker-template) - Production-ready template with Docker Compose and PostgreSQL integration.
 - [NestJS + Next.js Boilerplate](https://github.com/Vivify-Ideas/nest-next-boilerplate) - Monorepo setup for building fullstack apps with NestJS and Next.js.
+- [NestForge](https://github.com/hhsadiq/NestForge) - AI-powered NestJS boilerplate and starter with hexagonal architecture, automated CRUD generation, JWT & biometric auth, file management, i18n, mailing system, and comprehensive testing suite.
