@@ -39,6 +39,7 @@ head:
 # Utilities
 
 - [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
+- [`@nestjs/throttler`](https://github.com/nestjs/throttler) - A rate limiting module for NestJS with multiple storage strategies.
 - ![](https://img.shields.io/github/stars/nestjs-architects/typed-cqrs.svg?style=flat-square) [`@nestjs-architects/typed-cqrs`](https://github.com/nestjs-architects/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
 - ![](https://img.shields.io/github/stars/nestjsx/nestjs-config.svg?style=flat-square) [`nestjs-config`](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
 - ![](https://img.shields.io/github/stars/Nikaple/nest-typed-config.svg?style=flat-square) [`nest-typed-config`](https://github.com/Nikaple/nest-typed-config) - Intuitive, type-safe configuration module for Nest framework.

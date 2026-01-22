@@ -23,6 +23,10 @@
         "link": "/resources/official-resources"
       },
       {
+        "text": "Podcasts",
+        "link": "/resources/podcasts"
+      },
+      {
         "text": "Talks",
         "link": "/resources/talks"
       },
@@ -42,15 +46,6 @@
       {
         "text": "Open Source",
         "link": "/projects-using-nestjs/open-source"
-      }
-    ]
-  },
-  {
-    "text": "🚀 Boilerplates & Starters",
-    "items": [
-      {
-        "text": "🚀 Boilerplates & Starters",
-        "link": "/-boilerplates-and-starters/-boilerplates-and-starters"
       }
     ]
   },

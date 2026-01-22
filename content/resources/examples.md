@@ -64,4 +64,4 @@ head:
 - [NestJs RabbitMQ Transporter with the graceful shutdown](https://github.com/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown) - An implementation example of graceful shutdown for microservices based on RabbitMQ message broker.
 - [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) - NestJS Authentication without Passport using Bcrypt, JWT and Redis
 - [NestJs Farm Starter](https://github.com/ErKeLost/farm-nestjs-starter) - Compile a nestjs project using [Farm](https://www.farmfe.org/), Compile in milliseconds.
-- [Shopping Backend] - NestJS shopping backend implementation with [prisma](https://www.prisma.io/) and [nestia](https://nestia.io/) for the educational purpose. It has been developed under the strict architecture designing, and ensures quality by wide e2e and unit testings.
+- [Shopping Backend](https://github.com/samchon/shopping-backend) - NestJS shopping backend implementation with [Prisma](https://www.prisma.io/) and [Nestia](https://nestia.io/) for educational purposes. It has been developed under strict architecture design, and ensures quality with comprehensive e2e and unit testing.
