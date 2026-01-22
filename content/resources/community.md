@@ -43,6 +43,8 @@ head:
 - [Telegram (Brazilian Portuguese speak community)](https://t.me/nestjsbr)
 - [Telegram (Russian speak community)](https://t.me/nest_ru)
 - [Telegram (Ukrainian speak community)](https://t.me/nest_ukraine)
+- [Telegram (Spanish speak community)](https://t.me/nestjs_es)
 - [Slack (Korean speak community)](https://nestjs.slack.com)
 - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
 - [Facebook (Polish speak community)](https://www.facebook.com/groups/606785643208589)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/nestjs) - Questions tagged with NestJS.

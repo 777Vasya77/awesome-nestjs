@@ -38,4 +38,5 @@ head:
 
 # Scheduling
 
+- [`@nestjs/schedule`](https://github.com/nestjs/schedule) - Official schedule module for NestJS providing cron jobs, timeouts, and intervals.
 - [`@nestjs/bull`](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.

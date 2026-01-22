@@ -38,4 +38,5 @@ head:
 
 # Cache
 
-- [](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework
+- [`@nestjs/cache-manager`](https://github.com/nestjs/cache-manager) - Official caching module for NestJS with support for multiple stores (Redis, Memcached, etc.).
+- ![](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework.

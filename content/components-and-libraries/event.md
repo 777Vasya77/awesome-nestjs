@@ -38,4 +38,5 @@ head:
 
 # Event
 
+- [`@nestjs/event-emitter`](https://github.com/nestjs/event-emitter) - Official event emitter module for NestJS based on eventemitter2.
 - ![](https://img.shields.io/github/stars/yak0/nest-event.svg?style=flat-square) [`nest-event`](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.

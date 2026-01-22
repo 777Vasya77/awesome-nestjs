@@ -42,6 +42,8 @@ head:
 - [Official Guide](https://docs.nestjs.com)
 - [GitHub Repo](https://github.com/nestjs/nest)
 - [YouTube channel](https://www.youtube.com/@nestframework)
+- [Official Courses](https://courses.nestjs.com/) - Official NestJS courses for all skill levels.
+- [NestJS Enterprise](https://enterprise.nestjs.com/) - Enterprise support, consulting, and training services.
 - Examples
   - [Nest Starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter.
   - [JavaScript Starter](https://github.com/nestjs/javascript-starter) - Nest framework JavaScript (ES6 / ES7 / ES8) starter.
