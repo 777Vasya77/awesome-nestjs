@@ -54,5 +54,6 @@ head:
 - Udemy free course: [The complete NestJS developer. Enterprise Node.js framework](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/) - The complete guide for developers how to create enterprise ready applications using NestJS framework.
 - [NestJS and Project Structure - What to Do?](https://dev.to/smolinari/nestjs-and-project-structure-what-to-do-1223) - An article to show you how to structure your application with NestJS
 - For `@nestjs/swagger` with generic types:
-    + [How to generate generic DTOs with NestJs and Swagger](https://www.inextenso.dev/how-to-generate-generic-dtos-with-nestjs-and-swagger)
-    + [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/2021/how-to-generate-generics-dtos-with-nestjsswagger-422g)
+  - [How to generate generic DTOs with NestJs and Swagger](https://www.inextenso.dev/how-to-generate-generic-dtos-with-nestjs-and-swagger)
+  - [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/2021/how-to-generate-generics-dtos-with-nestjsswagger-422g)
+- YouTube course by TeaCoder: [NestJS Full Course (10 hours)](https://www.youtube.com/watch?v=HT6cm4GoSIw) - Comprehensive guide covering core concepts (Russian).
