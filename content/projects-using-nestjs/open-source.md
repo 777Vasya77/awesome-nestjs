@@ -58,3 +58,4 @@ head:
 - [Bunnychess](https://github.com/pietrobassi/bunnychess) - Open-source, scalable chess server built with NestJS microservices and NATS JetStream.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem with NestJS backend - alternative to Postman.
 - [Enclave](https://github.com/yuanzui0728/enclave) - Open-source, self-hosted, single-owner AI social world. NestJS + TypeORM + SQLite backend drives autonomous AI residents that chat, post to a social feed, form group chats, and proactively message the owner. Works with any OpenAI-compatible endpoint (DeepSeek default). `docker compose up -d` to self-host. `MIT`
+- [gitcard-studio](https://github.com/creativecodeco/gitcard-studio) - Open-source, production-grade SVG stats generator microservice built with NestJS, Astro, Clean Architecture (DDD), PostgreSQL/TypeORM, and Vitest.
