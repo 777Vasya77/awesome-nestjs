@@ -38,5 +38,6 @@ head:
 
 # Workflow Automation
 
+- ![](https://img.shields.io/github/stars/jescrich/nestjs-workflow.svg?style=flat-square) [`@jescrich/nestjs-workflow`](https://github.com/jescrich/nestjs-workflow) - A flexible, stateless declarative workflow and finite state machine (FSM) engine with BullMQ and Kafka support.
 - ![](https://img.shields.io/github/stars/camunda-community-hub/nestjs-zeebe.svg?style=flat-square) [`nestjs-zeebe`](https://github.com/camunda-community-hub/nestjs-zeebe)
 - ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-hatchet`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/hatchet) - NestJS integration for [Hatchet](https://hatchet.run/) workflow orchestration.
