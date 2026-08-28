@@ -39,6 +39,7 @@ head:
 # Utilities
 
 - ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/ts-jest`](https://www.npmjs.com/package/@golevelup/ts-jest) and [`@golevelup/ts-vitest`](https://www.npmjs.com/package/@golevelup/ts-vitest) - Utilities for making testing NestJS applications easier. Currently supports Jest and Vitest
+- ![](https://img.shields.io/github/stars/ts-oas/nest-openapi.svg?style=flat-square) [`@nest-openapi/mock`](https://github.com/ts-oas/nest-openapi) - Spec-driven mock server utility for generating realistic mock responses from OpenAPI specifications. ([Documentation](https://nest-openapi.github.io/mock/))
 - ![](https://img.shields.io/github/stars/omermorad/mockingbird.svg?style=flat-square) [`mockingbird`](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
 - ![](https://img.shields.io/github/stars/omermorad/nestjs-pact.svg?style=flat-square) [NestJS + Pact](https://www.npmjs.com/package/nestjs-pact) - Injectable Pact.js Consumer/Provider for NestJS
 - ![](https://img.shields.io/github/stars/suites-dev/suites.svg?style=flat-square) [Suites](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
