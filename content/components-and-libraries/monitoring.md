@@ -38,6 +38,7 @@ head:
 
 # Monitoring
 
+- ![](https://img.shields.io/github/stars/nestjs/observe.svg?style=flat-square) [`@nestjs/observe`](https://github.com/nestjs/observe) - Official observability and APM agent for NestJS - error tracking, distributed traces, runtime metrics and CPU profiles.
 - [`@nestjs/terminus`](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
 - ![](https://img.shields.io/github/stars/MetinSeylan/Nestjs-OpenTelemetry.svg?style=flat-square) [`@metinseylan/nestjs-opentelemetry`](https://github.com/MetinSeylan/Nestjs-OpenTelemetry) - Deeply integrated NestJS OpenTelemetry module with auto instrumentations.
 - ![](https://img.shields.io/github/stars/GenFirst/nest-status-monitor.svg?style=flat-square) [`nest-status-monitor`](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for NestJS based node servers.

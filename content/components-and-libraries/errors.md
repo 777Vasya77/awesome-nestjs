@@ -38,6 +38,7 @@ head:
 
 # Errors
 
+- ![](https://img.shields.io/github/stars/nestjs/observe.svg?style=flat-square) [`@nestjs/observe`](https://github.com/nestjs/observe) - Official observability and APM agent for NestJS - error tracking, distributed traces, runtime metrics and CPU profiles.
 - ![](https://img.shields.io/github/stars/squareboat/nest-eyewitness.svg?style=flat-square) [`@squareboat/nest-eyewitness`](https://github.com/squareboat/nest-eyewitness) - Receive error reports directly to your inbox whenever any exception is witnessed 👀 in your NestJS application.
 - ![](https://img.shields.io/github/stars/shekohex/nestjs-flub.svg?style=flat-square) [`nestjs-flub`](https://github.com/shekohex/nestjs-flub) - Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:.
 - ![](https://img.shields.io/github/stars/ntegral/nestjs-sentry.svg?style=flat-square) [`nestjs-sentry`](https://github.com/ntegral/nestjs-sentry) - Another NestJS Sentry module, with injectable sentry client.
