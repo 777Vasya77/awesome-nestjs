@@ -89,6 +89,10 @@
         "link": "/components-and-libraries/event"
       },
       {
+        "text": "HTTP Adapters",
+        "link": "/components-and-libraries/http-adapters"
+      },
+      {
         "text": "Internationalization (i18n)",
         "link": "/components-and-libraries/internationalization"
       },
