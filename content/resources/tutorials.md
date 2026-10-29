@@ -46,7 +46,6 @@ head:
 - [Build a chat app with sentiment analysis using NestJS](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
 - [Create a realtime graph using NestJS](https://pusher.com/tutorials/realtime-graph-nestjs)
 - [Build a realtime table with DataTables and NestJS](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
-- [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
 - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
 - [Implementing RBAC Authorization in a NestJS](https://www.permit.io/blog/how-to-protect-a-url-inside-a-nestjs-app-using-rbac-authorization) - A guide to securing your NestJS API endpoints with Role Based Access Control (RBAC) and Attribute Based Access Control (ABAC) using ` @nestjs/passport` and Permit.io
 - [TutorialSearch](https://tutorialsearch.io/?q=nestjs) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
